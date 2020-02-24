@@ -1,0 +1,32 @@
+/* font is created by Sideshow at https://fonts.google.com/specimen/Satisfy */
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+body {
+    background-color: tan;
+    /* background image is from https://www.transparenttextures.com/ */
+    background-image: url("https://www.transparenttextures.com/patterns/black-paper.png");
+    font-family: 'Satisfy', serif;
+}
+
+h1 {
+    color: sienna;
+    font-size: 5em;
+}
+
+img {
+    margin-bottom: 12px;
+    border-radius: 1em;
+    opacity: 0.75;
+}
+
+figcaption {
+    color: tan;
+    font-family: serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.3em;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.81);
+}

@@ -1,0 +1,50 @@
+html {
+    background-color: white;
+    background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png"); /* Made by Welsley at https://www.transparenttextures.com/ */
+    font-family: "Calibri Light", sans-serif;
+}
+
+body {
+    padding: 10%;
+}
+
+h2 {
+    border-radius: 10em;
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.3em;
+    background: rgba(245, 245, 245, 0.7);
+    padding: 0.3em;
+    border-radius: 3px;
+}
+p::first-letter {
+    font-family: Calibri, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+}
+
+p:hover {
+
+}
+
+.menu {
+    font-size: 1em;
+    width: 10em;
+    position: fixed;
+    top: 10%;
+    left: 80%;
+    overflow-x: hidden;
+    padding: 8px;
+    border: 1px black solid;
+    opacity: 0.5;
+}
+
+.menu:hover {
+    background: white;
+    opacity: 1;
+}

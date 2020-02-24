@@ -1,0 +1,50 @@
+body {
+    padding: 5%;
+    background-color: #2f00eb;
+    background-image: url("https://www.transparenttextures.com/patterns/food.png"); /* Made by Llya at https://www.transparenttextures.com/ */
+    color: cyan;
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+h2 {
+    color: #feff00;
+    background: rgba(0, 255, 19, 0.62);
+    border-radius: 10em;
+    font-size: 3em;
+}
+
+p {
+    font-size: 2em;
+}
+p::first-letter {
+    font-size: 150%;
+    color: #2f00eb;
+    background: cyan;
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+}
+
+p:hover {
+    color: #ff944e;
+}
+
+.menu {
+    font-size: 1em;
+    width: 10em;
+    position: fixed;
+    top: 10%;
+    left: 80%;
+    overflow-x: hidden;
+    padding: 8px;
+    border: 1px white solid;
+    opacity: 0.5;
+}
+
+.menu:hover {
+    opacity: 1;
+    background: #2f00eb;
+}
