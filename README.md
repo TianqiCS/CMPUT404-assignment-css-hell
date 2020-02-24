@@ -21,4 +21,23 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Additions
+=================
+part1:  
+These three Gutenberg documents and related resources came from the top 3 ranked at http://www.gutenberg.org/browse/scores/top by the time it was done.
+
+references besides documents:
+1. The font is created by Sideshow at https://fonts.google.com/specimen/Satisfy
+2. The paper like background is created by Atle Mo at https://www.transparenttextures.com/
+
+To show images captions css I have to add figcaption elements into the article. Other than that, I only introduce my css by adding <link rel="stylesheet" type="text/css" href="style.css"> to the head.
+
+part2:  
+1. Two background images are from https://www.transparenttextures.com/ by two creators Welsley and Llya.
+2. My photo is shot long time ago.
+3. There are some animations are not shown in the screenshots.
+4. Everything is under open sourced licenses, see the html for more info.
+
+
+
 
