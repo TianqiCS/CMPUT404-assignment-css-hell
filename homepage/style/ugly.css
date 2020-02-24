@@ -32,6 +32,18 @@ p:hover {
     color: #ff944e;
 }
 
+#self {
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    border: 5px solid #f9ff1d;
+    border-radius: 1em;
+    padding: 5px;
+    width: 150px;
+}
+
 .menu {
     font-size: 1em;
     width: 10em;

@@ -3,3 +3,5 @@ These three Gutenberg documents and related resources came from the top 3 ranked
 references besides documents:
 1. The font is created by Sideshow at https://fonts.google.com/specimen/Satisfy
 2. The paper like background is created by Atle Mo at https://www.transparenttextures.com/
+
+To show images captions css I have to add figcaption elements into the article. Other than that, I only introduce my css by adding <link rel="stylesheet" type="text/css" href="style.css"> to the head.
