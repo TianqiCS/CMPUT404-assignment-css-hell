@@ -33,10 +33,6 @@ p:hover {
 }
 
 #self {
-    -webkit-transform:rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
     transform: rotate(90deg);
     border: 5px solid #f9ff1d;
     border-radius: 1em;
